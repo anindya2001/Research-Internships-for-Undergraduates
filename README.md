@@ -56,3 +56,4 @@ The following are some research internships for Indian students:
 16. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 17. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
 18. [IITM - Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
+19. [Summer Fellowship in  Science and Engineering](https://www.iisc.ac.in/wp-content/uploads/2020/04/Fulladvertiment.htm), IISc
